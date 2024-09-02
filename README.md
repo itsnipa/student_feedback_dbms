@@ -38,7 +38,7 @@ A student feedback portal built using PHP, SQL and CSS.
   1. Fork this repository.
   2. Clone the repository in your project folder.
   
-  git clone  https://github.com/itsnipa/student_feedback_dbms.git
+  git clone  https://github.com/(yourUserName)/student_feedback_dbms.git
 
 
 
