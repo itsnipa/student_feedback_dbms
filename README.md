@@ -37,9 +37,9 @@ A student feedback portal built using PHP, SQL and CSS.
 
   1. Fork this repository.
   2. Clone the repository in your project folder.
-  
+  ```console
   git clone  https://github.com/(yourUserName)/student_feedback_dbms.git
-
+```
 
 
 # Backend Setup
@@ -53,16 +53,16 @@ A student feedback portal built using PHP, SQL and CSS.
     Don't have it already? Download it from https://www.apachefriends.org/download.html.
 
 
-5. Move the project folder to C:\xampp\htdocs.
+4. Move the project folder to  ```C:\xampp\htdocs.```
 
 
-6. Go to http://localhost/phpmyadmin/ in your browser and create a database named feedback.
+5. Go to http://localhost/phpmyadmin/ in your browser and create a database named feedback.
 
    ![image](https://github.com/user-attachments/assets/f3460cb4-42b6-4c52-8cdc-5e033ba208ef)
 
 
 
-7. And import the sql file feedback.sql in the database folder to setup the database.
+6. And import the sql file feedback.sql in the database folder to setup the database.
 
    ![image](https://github.com/user-attachments/assets/dda7f818-b9bb-4ebf-b331-aea9aec1cc9f)
 
@@ -70,7 +70,7 @@ A student feedback portal built using PHP, SQL and CSS.
 
 # Get Started
 
-7. Go to http://localhost/feedback/ in your browser and get started.
+7. Go to **http://localhost/feedback/** in your browser and get started.
 
 
 
